@@ -349,7 +349,7 @@ footer i:hover{
         height: 20vh;
     }
     .section {
-        background-image: url('/Product-Page/images2/hero-banner-2.jpg');
+        background-image: url('/images2/hero-banner-2.jpg');
         background-position: center;
         background-size: cover;
         height: 400px;
@@ -457,7 +457,7 @@ footer i:hover{
         font-size: 1rem;
     }
     .section {
-        background-image: url('/Product-Page/images2/hero-banner-2.jpg');
+        background-image: url('/images2/hero-banner-2.jpg');
         background-size: cover;
         background-position: center;
         height: 400px;
